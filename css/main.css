@@ -1,0 +1,29 @@
+.container { background-color:#fff;border-radius:8px;
+	width:960px;
+
+	margin:0 auto;
+}
+body {font-family: 'Kameron', Arial, sans-serif;font-size:0.75em;background-image: url(bg.png);}
+.main {width:850px;margin:0 auto;padding-top:10px;padding-bottom:30px;margin-top:80px;}
+footer {width:850px;margin:0 auto;}
+nav ul li {list-style-type:none;display:inline;padding-right:10px;}
+nav {margin-left:960px;text-transform:uppercase;font-size:11px;margin-top:10px;}
+
+img.logo {margin-top:30px;margin-bottom:50px;}
+.rightabout {margin-left:500px;}
+.faqs {margin-left:300px;}
+.rightabout p {width:300px;font-family: 'Kameron', arial, serif;font-size:13px;}
+section.sign {float:left;margin-left:20px;text-align:center;}
+.form {text-align:left;}
+h2 {font-family: 'Helvetica', Arial, sans-serif;font-size:1.55em;}
+
+
+a, h2 {color:#BE1622;}
+
+a {text-decoration:none;border-bottom:1px solid #BE1622;padding-bottom:1px;}
+a:hover {border:none;}
+section p {padding-bottom:20px;}
+.contact {width:400px;height:300px;margin-left:300px;}
+
+
+
